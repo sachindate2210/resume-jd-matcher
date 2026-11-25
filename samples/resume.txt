@@ -1,0 +1,20 @@
+ALEX SHARMA (sample resume)
+Python Developer | Pune, India
+
+SUMMARY
+Python developer with 3 years of experience building REST APIs and data tools. Recently built LLM-powered chatbots.
+
+SKILLS
+Python, FastAPI, Flask, PostgreSQL, MySQL, Pandas, Git, Docker (basic), LangChain, OpenAI API, React (basic)
+
+EXPERIENCE
+Python Developer, DataBridge Solutions (2022 - present)
+- Built FastAPI services used by 4 internal teams; reduced report generation time by 40%.
+- Developed a customer-support chatbot with LangChain and the OpenAI API that answers questions from product manuals.
+- Wrote PostgreSQL queries and Pandas pipelines for monthly sales dashboards.
+
+Junior Developer, CodeNest (2021 - 2022)
+- Maintained Flask web apps and wrote unit tests with pytest.
+
+EDUCATION
+B.E. Computer Engineering, 2021

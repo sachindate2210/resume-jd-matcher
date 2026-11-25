@@ -1,0 +1,16 @@
+Generative AI Engineer (sample job description)
+Location: Bengaluru / Remote | Experience: 2-5 years
+
+Responsibilities
+- Build LLM applications: RAG pipelines, AI agents and chat assistants for enterprise customers.
+- Design multi-agent workflows with LangGraph or similar frameworks.
+- Build and deploy Python APIs (FastAPI) and integrate them with React frontends.
+- Evaluate and monitor LLM quality using tools like LangSmith; reduce hallucinations.
+- Work with vector databases (ChromaDB, Pinecone or pgvector).
+
+Requirements
+- Strong Python; 2+ years building backend services.
+- Hands-on with LangChain, LangGraph, OpenAI or other LLM APIs.
+- Experience with RAG, embeddings and vector search.
+- Docker and a cloud platform (AWS, Azure or GCP).
+- Nice to have: prompt engineering, MCP, fine-tuning, CI/CD.
